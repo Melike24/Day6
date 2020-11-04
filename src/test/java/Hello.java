@@ -7,5 +7,6 @@ public class Hello {
         //added more line
 
         //added 3th line
+        //More changes to fix accidental accepting master
     }
 }
