@@ -1,6 +1,12 @@
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello world");
-        //conflicting much?
+
+        //added some more line
+
+        //added more line
+
+        //added 3th line
+        //More changes to fix accidental accepting master
     }
 }
